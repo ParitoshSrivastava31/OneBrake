@@ -3,6 +3,8 @@ import "../Components/Hero.css";
 import Button from "@mui/material/Button";
 import Paper from "@mui/material/Paper";
 import InputBase from "@mui/material/InputBase";
+import logo from "../Components/map.jpg";
+import logo1 from "../Components/logo1.png";
 // import Divider from "@mui/material/Divider";
 // import IconButton from "@mui/material/IconButton";
 // import MenuIcon from "@mui/icons-material/Menu";
@@ -110,7 +112,9 @@ export default function Hero() {
             </Button>
           </div>
         </div>
-        <div className="maps"></div>
+        <div className="maps">
+          <img src={logo} id="Mapimg" alt="map" />
+        </div>
       </div>
     </>
   );
