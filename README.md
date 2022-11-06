@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# OneBreak
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Problem
 
-## Available Scripts
+- Too much hassle in multi-vehicle journey.
+- Repetition of payment to different drivers.
+- Wastage of precious time.
+- Inconsistent experience.
+- Prone to germs ( covid showed us the potent levels of it)
 
-In the project directory, you can run:
+## Solution
 
-### `npm start`
+- A unified platform for commuter to book all the means of transport from source to destination to reduce time wastage and enable one time payment.
+- This platform will connect all the public transport, cabs, rikshaw under one umbrella.
+- One time payment method will let commuters pay only one time and that amount then divides and reaches the respective transport
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
+<img src="/src/Components/signin-page.jpg" alt="map page" style="height: 500px; width:1920px;"/>
+<img src="/src/Components/map-page.png" alt="map page" style="height: 500px; width:1920px;"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About
+In cities it is quite natural to take more than one vehicles to reach your destination if you don't own one. And it becomes quite a hassle and time taking task to commute through it. You have to pay every single time for what is supposed to be single seamless experience. This causes rush between commuters, resulting in excess traffic.
+There isn't any unified platform that connects public transport to each other and with auto-rikshaws to ensure a hassle-free ride from source to destination. This idea/project aims to connect all the buses, rikshaw, metro, etc and make payment a one time task and to reduce time wastage.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Team Details
+### Team Name: Candid Compilerz
+### Member Names : Ansh Mondal , Palak Bhogra and Paritosh Srivastava
