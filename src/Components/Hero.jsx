@@ -12,7 +12,7 @@ import InputBase from "@mui/material/InputBase";
 export default function Hero() {
   return (
     <>
-      <div className="container">
+      <div className="container1">
         <div className="mainBody">
           <div className="search1">
             <Paper
